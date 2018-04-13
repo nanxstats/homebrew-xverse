@@ -10,9 +10,11 @@ Install Homebrew, then run:
 brew tap road2stat/xverse
 ```
 
-You can now install casks from this repo:
+Now you can install casks from this repo:
 
-`brew cask install rstudio-daily-keep-config`
+```bash
+brew cask install rstudio-daily-keep-config
+```
 
 ## Packages
 
