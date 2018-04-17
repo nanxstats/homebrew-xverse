@@ -16,6 +16,12 @@ Now you can install casks from this repo:
 brew cask install rstudio-daily-keep-config
 ```
 
+To reinstall (update) it, run
+
+```bash
+brew cask reinstall rstudio-daily-keep-config
+```
+
 ## Packages
 
 | Package name           | Description                              |
