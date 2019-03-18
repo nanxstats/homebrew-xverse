@@ -1,13 +1,13 @@
 # homebrew-xverse
 
-Nan's Homebrew Casks.
+Nan Xiao's Homebrew Casks.
 
 ## Usage
 
 Install Homebrew, then run:
 
 ```bash
-brew tap road2stat/xverse
+brew tap nanxstats/xverse
 ```
 
 Now you can install casks from this repo:
